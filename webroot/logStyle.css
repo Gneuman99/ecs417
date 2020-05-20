@@ -1,0 +1,15 @@
+
+.wrapper-main{
+	display: flex;
+	justify-content: center;
+	 background: #1abc9c;
+  color: white;
+  font-size: 20px;
+  padding: 10%;
+}
+
+textarea{
+	height: 100%;
+	width: 150%;
+	justify-content: center;
+}
