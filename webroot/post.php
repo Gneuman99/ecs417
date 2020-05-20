@@ -9,7 +9,7 @@
 		$sql = "INSERT INTO blog (title, content) VALUE ('$title', '$content')";
 		mysqli_query($conn, $sql);
 		echo "Entry posted";
-		exit();
+		header("Location: ../viewBlog.php");
 	}
 	
 ?>
