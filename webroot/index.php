@@ -10,15 +10,15 @@
 
 <div class = "box1" onclick="location.href='#aboutMe';" style="cursor: pointer;">
 	<h3>About me</h3>
-	<p> A peak into the private life of the man himself. Gavriel Neuman</p>
+	<p> A brief introduction to me</p>
 </div>
 <div class = "box2" onclick="location.href='#skills';" style="cursor: pointer;">
 	<h3>Skills and achievements</h3>
-	<p> Some of my skills and achievements </p>
+	<p> here is listed Some of my personal skills and achievements </p>
 </div>
 <div class = "box3" onclick="location.href='#education';" style="cursor: pointer;">
 	<h3>Education and Qualifications</h3>
-	<p> this is a test to try out classes in CSS</p>
+	<p> My education, and the qualifications I have acheived</p>
 </div>
 <div class = "box4" onclick="location.href='#experience';" style="cursor: pointer;">
 	<h3>experience</h3>
@@ -26,16 +26,16 @@
 </div>
 <div class = "box5" onclick="location.href='#portfolio';" style="cursor: pointer;">
 	<h3>Portfolio</h3>
-	<p> me portfolio</p>
+	<p> Some key Portfolio elements</p>
 </div>
 <div class = "box6" onclick="location.href='#contact';" style="cursor: pointer;">
 	<h3>contact info</h3>
-	<p> me portfolio</p>
+	<p> Ways to reach out and contact me</p>
 </div>
 
 <div class = "box7" onclick="location.href='viewBlog.php';" style="cursor: pointer;">
 	<h3>blog</h3>
-	<p> me blog</p>
+	<p> view my blog</p>
 </div>
 </div>
 </nav>
